@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![]JAVA
 
 **📈 my github stats 📈**
-![Harsh's github stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alph420&show_icons=true&theme=radical))
+![Harsh's github stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alph420&show_icons=true&theme=radical)
