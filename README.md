@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 **languages and tools:**  
-
+![]JAVA
 
 **📈 my github stats 📈**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alph420&show_icons=true&theme=gotham" alt="Alph420" />
