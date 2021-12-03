@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>**📈 Click my github stats 📈**</summary>
-<p align="center">
+<p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alph420&show_icons=true&hide=issues&icon_color=000000&hide_border=true&theme=radical">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph420&hide=html,&hide_border=true&theme=radical"
