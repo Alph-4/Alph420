@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <details>
 <summary>**📈 Click my github stats 📈**</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alph420&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alph420&show_icons=true&hide=issues&icon_color=000000&hide_border=true&theme=radical">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph420&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alph420&hide=html,&hide_border=true&theme=radical"
 </p>
 </details>
