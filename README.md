@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin: Julien Jennequin](https://img.shields.io/badge/-Julien_Jennequin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-jennequin-3390871a1/)](https://www.linkedin.com/in/julien-jennequin-3390871a1/)
-![GitHub followers](https://img.shields.io/github.com/Alph420/Alph420/?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers//Alph420/Alph420/?label=Follow&style=social)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alph420)
 
