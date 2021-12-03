@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin: Julien Jennequin](https://img.shields.io/badge/-Julien Jennequin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-jennequin-3390871a1/)](https://www.linkedin.com/in/julien-jennequin-3390871a1/)
+[![Linkedin: Julien Jennequin](https://img.shields.io/badge/-Julien_Jennequin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-jennequin-3390871a1/)](https://www.linkedin.com/in/julien-jennequin-3390871a1/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alph420)
 
